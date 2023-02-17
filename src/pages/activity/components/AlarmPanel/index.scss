@@ -1,0 +1,11 @@
+.activity-alarm-list-item.semi-list-item{
+    flex-direction: column;
+    .semi-list-item-extra{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: unset;
+        
+    }
+}

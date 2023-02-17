@@ -1,0 +1,9 @@
+.semi-card.admin-list-search-card{
+    .semi-card-body{
+        max-height: 360px;
+        overflow-y: scroll;
+    }
+    .semi-input-group{
+        flex-wrap: nowrap;
+    }
+}

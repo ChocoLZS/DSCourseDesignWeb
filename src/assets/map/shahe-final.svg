@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 3541.9 824.61" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:#f6b66c;stroke:#a0a19e;stroke-miterlimit:10;stroke-width:2px;}.cls-2{fill:#310304;stroke:#a0a19e;stroke-miterlimit:10;stroke-width:2px;}.cls-3{font-size:72px;font-family:MicrosoftYaHeiUI, Microsoft YaHei UI;letter-spacing:0.6em;}.cls-4{fill:#231815;}.cls-5{fill:#a0a0a0;}</style>
+ </defs>
+ <g id="运动场">
+  <g id="运动场-2" stroke="#a0a19e" stroke-miterlimit="10" stroke-width="2pt" stroke-dasharray="none" data-name="运动场">
+   <rect class="cls-1" x="438.53" y="1.5" width="366.45" height="721.65" rx="32.39" fill="#f6b66c"/>
+   <path class="cls-2" transform="translate(804.98 449.74)" d="M-32.39,273.9H-334.06A32.93,32.93,0,0,1-366.95,241V-415.85a32.93,32.93,0,0,1,32.89-32.89H-32.39A32.92,32.92,0,0,1,.5-415.85V241A32.92,32.92,0,0,1-32.39,273.9ZM-334.06-447.74a31.93,31.93,0,0,0-31.89,31.89V241a31.93,31.93,0,0,0,31.89,31.89H-32.39A31.93,31.93,0,0,0-.5,241V-415.85a31.93,31.93,0,0,0-31.89-31.89Z" fill="#310304"/>
+  </g>
+  <text class="cls-3" transform="translate(470.49 265.86)" font-family="MicrosoftYaHeiUI, Microsoft YaHei UI" font-size="72px" letter-spacing=".6em">运动场</text>
+  <rect class="cls-4" x="787.81" y="85.86" width="17.67" height="45.01" rx="8.83" fill="#231815"/>
+  <rect class="cls-4" x="787.81" y="500.04" width="17.67" height="45.01" rx="8.83" fill="#231815"/>
+ </g>
+ <g id="鸿雁路">
+  <rect class="cls-5" y="742.67" width="3541.9" height="81.94" fill="#a0a0a0"/>
+ </g>
+</svg>

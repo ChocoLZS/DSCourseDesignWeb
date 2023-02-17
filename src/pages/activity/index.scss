@@ -1,0 +1,16 @@
+.activity-control-panel{
+    margin-bottom: 24px;
+}
+.layout-page .layout-content > :last-child{
+    justify-content: unset;
+    height: unset;
+}
+.semi-card-meta-wrapper{
+    width: 100%;
+}
+.activity-show-list-card{
+    .semi-card-body{
+        overflow:scroll;
+        max-height: 240px;
+    }
+}

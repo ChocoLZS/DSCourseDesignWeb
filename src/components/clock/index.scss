@@ -1,0 +1,27 @@
+.clock{
+    text-align: center;
+    margin-top: 12px;
+    width: 120px;
+}
+
+.clock span{
+    width: 12px;
+    text-align: center;
+    
+    font-size: 32px;
+    // color: gray;
+    // text-shadow: 
+    // 0 1px 0 rgba(0,0,0,0.9),
+    // 0 2px 0 rgba(0,0,0,0.8),
+    // 0 3px 0 rgba(0,0,0,0.7),
+    // 0 0 5px rgba(231, 156, 156, 0.05),
+    // 0 -1px 3px rgba(230, 205, 205, 0.2),
+    // 0 9px 9px rgba(214, 196, 196, 0.3),
+    // 0 12px 12px rgba(231, 219, 219, 0.3),
+    // 0 15px 15px rgba(236, 223, 223, 0.3);
+    // margin: -3px;
+}
+
+.clock span:nth-child(3n){
+    width: 40px;
+}

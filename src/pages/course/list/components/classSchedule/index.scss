@@ -1,0 +1,25 @@
+
+.course-class-schedule-list{
+    .semi-table-tbody>.semi-table-row>.semi-table-row-cell{
+        padding: 0;
+        padding: 0 6px;
+        }
+    .semi-table-tbody>.semi-table-row:hover>.semi-table-row-cell,
+    .semi-table-tbody>.semi-table-row:hover>.semi-table-row-cell.semi-table-cell-fixed-left,
+    .semi-table-tbody>.semi-table-row:hover>.semi-table-row-cell.semi-table-cell-fixed-right,
+    .semi-table-tbody>.semi-table-row:hover>.semi-table-row-cell.semi-table-cell-fixed-left::before, .semi-table-tbody>.semi-table-row:hover>.semi-table-row-cell.semi-table-cell-fixed-right::before {
+        background-color: unset;
+        }
+    .semi-table-tbody>.semi-table-row:hover>.semi-table-row-cell:hover{
+    background-color: var(--semi-color-fill-0);
+} 
+.table-row-cell-time{
+    padding: 8px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    }
+}
+
+

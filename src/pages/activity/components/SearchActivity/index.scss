@@ -1,0 +1,6 @@
+.semi-button-group{
+    display: flex;
+    button:last-child {
+        flex-grow: 1;
+    }
+}

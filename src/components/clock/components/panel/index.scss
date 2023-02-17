@@ -1,0 +1,18 @@
+.clock-operation-panel{
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    .svg-inline--fa{
+        cursor: pointer;
+    }
+    span .svg-inline--fa{
+        color: rgba(var(--semi-grey-5), 1);
+    }
+    span:hover .svg-inline--fa {
+        color: rgba(var(--semi-grey-6), 1);
+    }
+    span:active .svg-inline--fa{
+        color: rgba(var(--semi-grey-7), 1);
+    }
+}

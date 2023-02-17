@@ -1,0 +1,422 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 3600 2277">
+  <defs>
+    <pattern id="_10_lpi_10_3" data-name="10 lpi 10% 3" width="72" height="72" patternTransform="translate(16.61 39.23) rotate(-45)" patternUnits="userSpaceOnUse" viewBox="0 0 72 72">
+      <rect width="72" height="72" style="fill: none"/>
+      <g>
+        <line x1="71.75" y1="68.4" x2="144.25" y2="68.4" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="71.75" y1="54" x2="144.25" y2="54" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="71.75" y1="39.6" x2="144.25" y2="39.6" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="71.75" y1="25.2" x2="144.25" y2="25.2" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="71.75" y1="10.8" x2="144.25" y2="10.8" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="71.75" y1="61.2" x2="144.25" y2="61.2" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="71.75" y1="46.8" x2="144.25" y2="46.8" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="71.75" y1="32.4" x2="144.25" y2="32.4" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="71.75" y1="18" x2="144.25" y2="18" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="71.75" y1="3.6" x2="144.25" y2="3.6" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+      </g>
+      <g>
+        <line x1="-0.25" y1="68.4" x2="72.25" y2="68.4" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-0.25" y1="54" x2="72.25" y2="54" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-0.25" y1="39.6" x2="72.25" y2="39.6" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-0.25" y1="25.2" x2="72.25" y2="25.2" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-0.25" y1="10.8" x2="72.25" y2="10.8" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-0.25" y1="61.2" x2="72.25" y2="61.2" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-0.25" y1="46.8" x2="72.25" y2="46.8" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-0.25" y1="32.4" x2="72.25" y2="32.4" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-0.25" y1="18" x2="72.25" y2="18" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-0.25" y1="3.6" x2="72.25" y2="3.6" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+      </g>
+      <g>
+        <line x1="-72.25" y1="68.4" x2="0.25" y2="68.4" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-72.25" y1="54" x2="0.25" y2="54" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-72.25" y1="39.6" x2="0.25" y2="39.6" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-72.25" y1="25.2" x2="0.25" y2="25.2" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-72.25" y1="10.8" x2="0.25" y2="10.8" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-72.25" y1="61.2" x2="0.25" y2="61.2" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-72.25" y1="46.8" x2="0.25" y2="46.8" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-72.25" y1="32.4" x2="0.25" y2="32.4" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-72.25" y1="18" x2="0.25" y2="18" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+        <line x1="-72.25" y1="3.6" x2="0.25" y2="3.6" style="fill: none;stroke: #2c70a6;stroke-width: 0.72px"/>
+      </g>
+    </pattern>
+  </defs>
+  <g id="绿化带">
+    <g id="实验楼S2S3">
+      <rect x="3177.59" y="1492.23" width="159.87" height="153.95" style="fill: #8db561"/>
+    </g>
+    <g id="教室楼S1">
+      <rect x="3079.3" y="1182.81" width="227.66" height="171.56" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="北边公寓">
+      <g>
+        <rect x="1045.82" y="559.53" width="183.4" height="122.79" rx="6.46" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <rect x="968.53" y="787.43" width="334.01" height="84.94" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <polygon points="1301.83 339.59 1207.88 339.59 1207.88 273.98 1057.07 273.98 1057.07 339.59 968.64 339.59 968.64 388.88 1301.83 388.88 1301.83 339.59" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <rect x="968.83" y="34.11" width="333" height="47.79" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      </g>
+    </g>
+    <g id="南边公寓">
+      <rect x="1022.45" y="989.82" width="279.91" height="104.74" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="医务室_图书馆" data-name="医务室&amp;图书馆">
+      <rect x="1430.52" y="34.31" width="339.35" height="60.75" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <rect x="2233.02" y="41.27" width="646.97" height="59.8" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="学活">
+      <rect x="1795.43" y="772.42" width="275.72" height="99.52" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <rect x="1416.81" y="772.42" width="275.72" height="99.52" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="南部绿化">
+      <rect x="1411.69" y="1559.87" width="382.1" height="193.97" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <rect x="2513.05" y="1565.09" width="382.1" height="193.97" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <rect x="1896.9" y="1831.41" width="211.03" height="318.64" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <rect x="2209.04" y="1830.73" width="211.03" height="318.64" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <g>
+        <path d="M2431,1537v3l-4,4.71h-13.05v6.16h-4.44l-2.54,3.08h-3.62l-2.27,4.08-3.9,2.72h-13v3.44h-5.25v5.89l-8.25,6.89H2363v2.9h-6.89v3.26h-5.07v-3.26l-7.43-.05v3.31h-6.53V1585h-6v8.15h-7.06v2.9h-9V1600h-9c-2,3.81-10.06,5.89-10.06,5.89h-5.8l-2.08,3.17h-13.95v2.9H2264v3H2244a10.41,10.41,0,0,1-13.05,0l-11.19-.13-2.18,2.47h-8.7v3.78h-6V1628h-9v-6.89h-9V1628h-1.8l-51.29-6.89-1-.09v-3.9l-17.85-.13v10.15l-8.07-.1v-11.77l-22-.19v-3l-19.7-.18V1608l-19.39-.09-3-2-5.8.09v-1.27l-9,.27-1.9-2.17h-2.81l-4.44-2.9h-11.69v-6.89l-31-.14-3.35-4.07-2.81.18v-5.89l-4-.09v-3l-4.26-.09v3.17l-4.8-.18v-2.9l-3.26-.09v-2.81l-6.8-.14V1563.9h-27v-2.81h-5.16v-4h-4.9l-.9-.75c-2-7.5-10-7.23-10-7.23V1537h-80v31h-4v9h-3v16h3L1813,1604h4v5.11h8v-2l18.9-.12v2.09h10V1613H1861v3h3v5.91h3.88V1635h-3.72l-.12,10h11v32h1.9v3H1880v2.93h4v2h31v-1.91l16.84,0v-3l44,.09L1989,1693v12l-3,2,0,4h-.92l-.06,5.11h1l-.12,4.86h5l4.12,10.16h4V1743l2,2.06v4.89l3.91,1.09,2,2h3l5,4v2h11.8c4.26-4.24,8.26,0,8.26,0h10.7c2.94-4.67,5.36,0,5.36,0H2059c0-8.94,4.89-8,4.89-8l11.14-.06v-3.8l4-.06v-3l11,0c6.31-7.18,5.06-9,5.06-9l30.87.1,61.93-1v-3l17.09-.06V1742l2.13-.06v-9h12v8.82L2221,1744h10.83v2.84l17.33.24v-3l10.71-.15,2.07-3,5-.06,4.08-6.75.71-3.13,2.72-3.08.66-3.84,1.65-1.19.24-6,4-.06V1712l4-.06v3.13l14.9-.12v-2.89c5.21-2,7.13-4.94,7.13-4.94v-4.91l3-3.14,18-.12v-3l3.84-.06V1692h2.22l9.94-10v-31l4.1-.12V1645H2351v-6l4.85,0,4-4.94c2-5.44,3.55-.17,3.55-.17l3.46.14V1629h15.07v3.16l15.05,0,10,9.88,2,0v.94l2,0V1645l7,.1V1648l9.09,0v3h5.83V1654l16,0,.94-2.81,8.05-.25,4-4,.94,0v-9.14l3,.1.23-14.87,1.77-3.17v-4.05h5.09v-2.62l2.08-2.17v-7l3.75-4h8.2v-3.11l8,.07v-6.87l3.07-.15v-6.86l-3-.1-.1-6-5.88,0-3.06-4v-2.76l1.93-1.24,0-11c-.6-3.41,4.3-3,4.3-3H2495l-.05-9.88h1.88L2499,1543l1.88,0V1537Z" style="fill: #70b0e2;stroke: #231815;stroke-miterlimit: 10"/>
+        <path d="M2431,1537v3l-4,4.71h-13.05v6.16h-4.44l-2.54,3.08h-3.62l-2.27,4.08-3.9,2.72h-13v3.44h-5.25v5.89l-8.25,6.89H2363v2.9h-6.89v3.26h-5.07v-3.26l-7.43-.05v3.31h-6.53V1585h-6v8.15h-7.06v2.9h-9V1600h-9c-2,3.81-10.06,5.89-10.06,5.89h-5.8l-2.08,3.17h-13.95v2.9H2264v3H2244a10.41,10.41,0,0,1-13.05,0l-11.19-.13-2.18,2.47h-8.7v3.78h-6V1628h-9v-6.89h-9V1628h-1.8l-51.29-6.89-1-.09v-3.9l-17.85-.13v10.15l-8.07-.1v-11.77l-22-.19v-3l-19.7-.18V1608l-19.39-.09-3-2-5.8.09v-1.27l-9,.27-1.9-2.17h-2.81l-4.44-2.9h-11.69v-6.89l-31-.14-3.35-4.07-2.81.18v-5.89l-4-.09v-3l-4.26-.09v3.17l-4.8-.18v-2.9l-3.26-.09v-2.81l-6.8-.14V1563.9h-27v-2.81h-5.16v-4h-4.9l-.9-.75c-2-7.5-10-7.23-10-7.23V1537h-80v31h-4v9h-3v16h3L1813,1604h4v5.11h8v-2l18.9-.12v2.09h10V1613H1861v3h3v5.91h3.88V1635h-3.72l-.12,10h11v32h1.9v3H1880v2.93h4v2h31v-1.91l16.84,0v-3l44,.09L1989,1693v12l-3,2,0,4h-.92l-.06,5.11h1l-.12,4.86h5l4.12,10.16h4V1743l2,2.06v4.89l3.91,1.09,2,2h3l5,4v2h11.8c4.26-4.24,8.26,0,8.26,0h10.7c2.94-4.67,5.36,0,5.36,0H2059c0-8.94,4.89-8,4.89-8l11.14-.06v-3.8l4-.06v-3l11,0c6.31-7.18,5.06-9,5.06-9l30.87.1,61.93-1v-3l17.09-.06V1742l2.13-.06v-9h12v8.82L2221,1744h10.83v2.84l17.33.24v-3l10.71-.15,2.07-3,5-.06,4.08-6.75.71-3.13,2.72-3.08.66-3.84,1.65-1.19.24-6,4-.06V1712l4-.06v3.13l14.9-.12v-2.89c5.21-2,7.13-4.94,7.13-4.94v-4.91l3-3.14,18-.12v-3l3.84-.06V1692h2.22l9.94-10v-31l4.1-.12V1645H2351v-6l4.85,0,4-4.94c2-5.44,3.55-.17,3.55-.17l3.46.14V1629h15.07v3.16l15.05,0,10,9.88,2,0v.94l2,0V1645l7,.1V1648l9.09,0v3h5.83V1654l16,0,.94-2.81,8.05-.25,4-4,.94,0v-9.14l3,.1.23-14.87,1.77-3.17v-4.05h5.09v-2.62l2.08-2.17v-7l3.75-4h8.2v-3.11l8,.07v-6.87l3.07-.15v-6.86l-3-.1-.1-6-5.88,0-3.06-4v-2.76l1.93-1.24,0-11c-.6-3.41,4.3-3,4.3-3H2495l-.05-9.88h1.88L2499,1543l1.88,0V1537Z" style="stroke: #231815;stroke-miterlimit: 10;fill: url(#_10_lpi_10_3)"/>
+      </g>
+    </g>
+    <g id="西边绿化">
+      <rect x="67.96" y="989.82" width="765.56" height="104.74" style="fill: #8db55d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+  </g>
+  <g id="道路">
+    <g id="鸿雁路">
+      <rect x="35.02" y="891.93" width="3541.93" height="81.94" style="fill: #a0a0a0"/>
+    </g>
+    <g id="国脉西路">
+      <rect x="872.74" y="87.72" width="51.29" height="2118.2" style="fill: #a0a0a0"/>
+    </g>
+    <g id="path1">
+      <rect x="1337.52" y="86.09" width="51.29" height="2119.08" style="fill: #a0a0a0"/>
+    </g>
+    <g id="path2">
+      <rect x="2912.92" y="90.2" width="51.29" height="2117.45" style="fill: #a0a0a0"/>
+    </g>
+    <g id="国脉路">
+      <rect x="2131.91" y="100.35" width="51.29" height="2147.87" style="fill: #a0a0a0"/>
+    </g>
+    <g id="小路">
+      <g id="南边公寓小路">
+        <polygon points="1039.7 1267.78 1132.17 1192.55 1337.52 1192.55 1337.52 1177.12 1129.56 1177.12 1128.74 1176.1 1027.96 1258.08 1027.65 1258.08 1027.65 1495.3 1027.48 1495.11 941.01 1572.87 941.01 1821 952.79 1821 952.79 1820.06 1129.24 1820.06 1129.24 1819.71 1234.5 1924.97 1234.5 1924.97 1222.57 1913.05 1038.86 2096.76 1054 2111.9 1237.71 1928.18 1235.29 1925.76 1235.29 1925.76 1237.81 1928.29 1240.34 1925.76 1337.52 1925.76 1337.52 1899.08 1235.8 1899.08 1129.67 1792.95 1129.24 1793.38 1129.24 1793.04 952.79 1793.04 952.79 1611.89 1128.86 1611.89 1196.2 1683.48 1196.2 1703.85 1337.52 1703.85 1337.52 1676.84 1225.5 1676.84 1138.48 1584.33 1137.5 1585.25 1137.5 1584.89 952.79 1584.89 952.79 1581.05 1036.82 1505.49 1036.77 1505.44 1039.7 1505.44 1039.7 1482.07 1135.91 1482.07 1135.91 1482.06 1135.92 1482.07 1188.66 1425.02 1241.67 1425.02 1241.67 1392.26 1179.17 1392.26 1121.02 1455.15 1039.7 1455.15 1039.7 1267.78" style="fill: #a0a0a0"/>
+        <polygon points="1883.8 2085.35 1883.28 2084.84 1883.66 2084.84 1883.66 1807.76 1857.13 1807.76 1857.13 2075.56 1753.63 2179.05 924.03 2179.05 924.03 2205.91 1763.62 2205.91 1763.62 2205.12 1763.83 2205.32 1883.8 2085.35" style="fill: #a0a0a0"/>
+      </g>
+      <g id="北边公寓小路">
+        <rect x="924.03" y="90.37" width="413.49" height="9.22" style="fill: #a0a0a0"/>
+        <rect x="1195.88" y="99.6" width="34.43" height="126.51" style="fill: #a0a0a0"/>
+        <rect x="924.08" y="428.02" width="413.44" height="27.11" style="fill: #a0a0a0"/>
+        <rect x="1042.99" y="455.13" width="34.29" height="104.4" style="fill: #a0a0a0"/>
+        <rect x="923.97" y="653.33" width="121.86" height="33.44" style="fill: #a0a0a0"/>
+        <rect x="1191.08" y="682.32" width="33.59" height="209.61" style="fill: #a0a0a0"/>
+        <rect x="1227.94" y="565.07" width="109.58" height="33.61" style="fill: #a0a0a0"/>
+      </g>
+      <g id="学活-2" data-name="学活">
+        <rect x="1388.81" y="430.17" width="743.1" height="26.63" style="fill: #a0a0a0"/>
+        <rect x="1388.81" y="110.03" width="743.1" height="15.98" style="fill: #a0a0a0"/>
+        <rect x="1732.01" y="126.01" width="26.96" height="765.92" style="fill: #a0a0a0"/>
+      </g>
+      <g id="图书馆">
+        <rect x="2183.2" y="110.05" width="682.36" height="15.87" style="fill: #a0a0a0"/>
+        <polygon points="2732 160.01 2227.99 160.01 2227.99 162.98 2227.99 833.99 2231 833.99 2530.41 833.99 2530.41 831 2231 831 2231 162.98 2732 162.98 2732 204.29 2734.99 204.29 2734.99 160.01 2732 160.01" style="fill: #a0a0a0"/>
+      </g>
+    </g>
+    <g id="path3-l">
+      <rect x="1388.81" y="1512.09" width="743.1" height="26.75" style="fill: #a0a0a0"/>
+    </g>
+    <g id="path3-r">
+      <rect x="2183.2" y="1512.09" width="729.72" height="26.75" style="fill: #a0a0a0"/>
+      <rect x="2183.2" y="1781.01" width="729.72" height="26.75" style="fill: #a0a0a0"/>
+    </g>
+    <g id="path4-l">
+      <rect x="1388.81" y="1781.01" width="743.1" height="26.75" style="fill: #a0a0a0"/>
+    </g>
+    <g id="path5">
+      <rect x="2964.21" y="1781.01" width="519.34" height="26.75" style="fill: #a0a0a0"/>
+    </g>
+    <g id="外围">
+      <g>
+        <rect x="35.02" y="28.79" width="3529.95" height="2219.43" style="fill: none"/>
+        <path d="M3565,0H0V2277H3600V0Zm0,2248.21H35V28.79H3565Z" style="fill: #a0a0a0"/>
+      </g>
+    </g>
+    <g id="西门">
+      <path d="M18.71,1005H16.3A16.3,16.3,0,0,1,0,988.71V884.35a16.3,16.3,0,0,1,16.3-16.3h2.41A16.3,16.3,0,0,1,35,884.35V988.71A16.3,16.3,0,0,1,18.71,1005Z"/>
+    </g>
+    <g id="南门">
+      <path d="M2211.07,2277H2102.9a15,15,0,0,1-15-15v-4.54a15,15,0,0,1,15-15h108.17a15,15,0,0,1,15,15V2262A15,15,0,0,1,2211.07,2277Z"/>
+    </g>
+  </g>
+  <g id="建筑">
+    <g id="运动场">
+      <g>
+        <path d="M831.67,694.31a8.84,8.84,0,0,1-8.84-8.84V658.13a8.83,8.83,0,0,1,16.67-4.08V275.37a8.83,8.83,0,0,1-16.67-4.07V244a8.83,8.83,0,0,1,16.67-4.07V183.15a31.93,31.93,0,0,0-31.89-31.89H505.94a31.93,31.93,0,0,0-31.89,31.89V840a31.93,31.93,0,0,0,31.89,31.89H807.61A31.93,31.93,0,0,0,839.5,840V689.55A8.84,8.84,0,0,1,831.67,694.31Z" style="fill: #f6b66c"/>
+        <path d="M839.5,654.05a8.76,8.76,0,0,1,1,4.08V271.3a8.72,8.72,0,0,1-1,4.07Z" style="fill: #310304"/>
+        <path d="M807.61,150.26H505.94a32.93,32.93,0,0,0-32.89,32.89V840a32.93,32.93,0,0,0,32.89,32.89H807.61A32.92,32.92,0,0,0,840.5,840V685.47a8.76,8.76,0,0,1-1,4.08V840a31.93,31.93,0,0,1-31.89,31.89H505.94A31.93,31.93,0,0,1,474.05,840V183.15a31.93,31.93,0,0,1,31.89-31.89H807.61a31.93,31.93,0,0,1,31.89,31.89v56.73a8.72,8.72,0,0,1,1,4.07v-60.8A32.92,32.92,0,0,0,807.61,150.26Z" style="fill: #310304"/>
+        <path d="M831.67,235.12a8.84,8.84,0,0,0-8.84,8.83V271.3a8.83,8.83,0,0,0,16.67,4.07,8.72,8.72,0,0,0,1-4.07V244a8.72,8.72,0,0,0-1-4.07A8.82,8.82,0,0,0,831.67,235.12Z" style="fill: #231815"/>
+        <path d="M831.67,649.29a8.84,8.84,0,0,0-8.84,8.84v27.34a8.84,8.84,0,0,0,17.67,0V658.13a8.85,8.85,0,0,0-8.83-8.84Z" style="fill: #231815"/>
+      </g>
+    </g>
+    <g id="报告厅">
+      <path d="M2493.6,1154.83c-40.35,45.33-34.13,115,1.32,155.08,30.58,34.63,74,37.2,82.18,37.53,6.6.26,57.27,1.46,91.35-37.09,36.22-41,39.42-110.71-.44-155.08C2623.21,1105.39,2538.81,1104,2493.6,1154.83Z" style="fill: #f66165;stroke: #a09e9c;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="教学综合实验楼-N">
+      <path d="M2816.66,1156V1036.4a28.6,28.6,0,0,0-28.6-28.6H2306.73a28.6,28.6,0,0,0-28.6,28.6v91.32a28.6,28.6,0,0,0,28.6,28.6h361v79.92h148.9v-79.92h-.34A.34.34,0,0,0,2816.66,1156Z" style="fill: #f66165;stroke: #a09e9c;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="教学综合实验楼-S">
+      <path d="M2667.76,1236.24v75.22h-361a28.61,28.61,0,0,0-28.6,28.6v91.33a28.61,28.61,0,0,0,28.6,28.6h481.33a28.61,28.61,0,0,0,28.6-28.6V1236.24Z" style="fill: #f66165;stroke: #a09e9c;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="教室楼S1-2" data-name="教室楼S1">
+      <path d="M3422.15,1007.8H3093.23a33.61,33.61,0,0,0-33.61,33.61v72.2a33.61,33.61,0,0,0,33.61,33.61h257.15v195.3a26.69,26.69,0,0,0,26.69,26.69h52a26.69,26.69,0,0,0,26.7-26.69V1041.41A33.61,33.61,0,0,0,3422.15,1007.8Z" style="fill: #f66165;stroke: #a09e9c;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="实验楼S2S3-2" data-name="实验楼S2S3">
+      <path d="M3424.56,1377.84H3089.93a31.3,31.3,0,0,0-31.31,31.3v320.39a31.31,31.31,0,0,0,31.31,31.31h334.63a31.31,31.31,0,0,0,31.3-31.31V1409.14A31.3,31.3,0,0,0,3424.56,1377.84Zm-32.64,269a52.91,52.91,0,0,1-52.91,52.91H3176.85a52.91,52.91,0,0,1-52.91-52.91v-154a52.91,52.91,0,0,1,52.91-52.92H3339a52.91,52.91,0,0,1,52.91,52.92Z" style="fill: #f66165;stroke: #a09e9c;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="教工食堂">
+      <path d="M1667.89,412H1445.32a27.86,27.86,0,0,1-27.86-27.86V177.56a27.86,27.86,0,0,1,27.86-27.86h222.57a27.86,27.86,0,0,1,27.86,27.86V384.1A27.86,27.86,0,0,1,1667.89,412Z" style="fill: #a8596d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="学生食堂">
+      <path d="M1664,734.52H1448.61a31.8,31.8,0,0,1-31.8-31.8V503.3a31.8,31.8,0,0,1,31.8-31.8H1664a31.8,31.8,0,0,1,31.8,31.8V702.72A31.8,31.8,0,0,1,1664,734.52Z" style="fill: #a8596d;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="综合办公楼">
+      <path d="M2042.55,411.38H1824a30.26,30.26,0,0,1-30.26-30.25V179.36A30.26,30.26,0,0,1,1824,149.1h218.52a30.25,30.25,0,0,1,30.25,30.26V381.13A30.25,30.25,0,0,1,2042.55,411.38Z" style="fill: #61c5d7;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="学生活动中心">
+      <path d="M2042.55,734.15H1824a30.26,30.26,0,0,1-30.26-30.26V502.13A30.26,30.26,0,0,1,1824,471.87h218.52a30.25,30.25,0,0,1,30.25,30.26V703.89A30.25,30.25,0,0,1,2042.55,734.15Z" style="fill: #61c5d7;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <path id="超市" d="M1850.73,670.41h-56.48V500.77a28.8,28.8,0,0,1,28.8-28.79h27.68Z" style="fill: #f6b66c;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <path id="运营商_邮局_ATM" data-name="运营商 邮局 ATM" d="M1794.25,670.41h163.08a8.75,8.75,0,0,1,8.74,8.75V722.7a11,11,0,0,1-11,11H1822.31a28.05,28.05,0,0,1-28.06-28.05Z" style="fill: #f6b66c;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="医务室">
+      <path d="M1996.64,102.62H1827.77A27.77,27.77,0,0,1,1800,74.85V69.6a27.77,27.77,0,0,1,27.77-27.77h168.87a27.77,27.77,0,0,1,27.77,27.77v5.25A27.77,27.77,0,0,1,1996.64,102.62Z" style="fill: #f6b66c;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="图书馆-2" data-name="图书馆">
+      <path id="图书馆-3" data-name="图书馆" d="M2573.35,163h-7.23c-185.81,0-336.44,150.63-336.44,336.44h0c0,185.81,150.63,336.44,336.44,336.44h7.23a337,337,0,0,0,93.59-13.2V373.8h65.46V202.89A334.9,334.9,0,0,0,2573.35,163Zm43.28,356.12H2299.45V378.91h317.18Z" style="fill: #f66165;stroke: #a09e9c;stroke-miterlimit: 10;stroke-width: 4px"/>
+      <path id="咖啡厅" d="M2667.69,787.06h-23.14a11.24,11.24,0,0,1-11.24-11.24V639.12a11.24,11.24,0,0,1,11.24-11.24h23.14Z" style="fill: #f6b66c;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="东配楼">
+      <path d="M2732.4,202.89V373.8h153.13A337.71,337.71,0,0,0,2732.4,202.89Z" style="fill: #61c5d7;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="学院楼_在建_" data-name="学院楼(在建)">
+      <g>
+        <g>
+          <path d="M3512.77,90.2H3053.94a32.57,32.57,0,0,0-32.57,32.57v211A32.61,32.61,0,0,0,3054,366.39h41.26a32.6,32.6,0,0,0,32.6-32.61V197h315.22V707H3274.74a31.33,31.33,0,0,0-31.33,31.32v44a31.33,31.33,0,0,0,31.33,31.33h242.53a31.33,31.33,0,0,0,31.32-31.33V126A35.82,35.82,0,0,0,3512.77,90.2Z" style="fill: #61c5d7"/>
+          <g>
+            <polyline points="3127.84 202.98 3127.84 196.98 3133.84 196.98" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <line x1="3145.97" y1="196.98" x2="3431" y2="196.98" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 12.128671646118164,12.128671646118164"/>
+            <polyline points="3437.06 196.98 3443.06 196.98 3443.06 202.98" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <line x1="3443.06" y1="215.13" x2="3443.06" y2="694.88" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 12.145751953125,12.145751953125"/>
+            <polyline points="3443.06 700.96 3443.06 706.96 3437.06 706.96" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px"/>
+            <path d="M3425.12,707H3274.74a31.33,31.33,0,0,0-31.33,31.32v44a31.33,31.33,0,0,0,31.33,31.33h242.53a31.33,31.33,0,0,0,31.32-31.33V126a35.82,35.82,0,0,0-35.82-35.82H3053.94a32.57,32.57,0,0,0-32.57,32.57v211A32.61,32.61,0,0,0,3054,366.39h41.26a32.6,32.6,0,0,0,32.6-32.61V209" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 11.939763069152832,11.939763069152832"/>
+          </g>
+        </g>
+        <g>
+          <path d="M3261.08,624.26l-35.39,162.18a37.28,37.28,0,0,1-44.37,28.48l-162.19-35.39a37.28,37.28,0,0,1-28.47-44.37L3026,573a37.29,37.29,0,0,1,44.38-28.48l162.18,35.39A37.29,37.29,0,0,1,3261.08,624.26Z" style="fill: #61c5d7"/>
+          <path d="M3261.08,624.26l-35.39,162.18a37.28,37.28,0,0,1-44.37,28.48l-162.19-35.39a37.28,37.28,0,0,1-28.47-44.37L3026,573a37.29,37.29,0,0,1,44.38-28.48l162.18,35.39a37.29,37.29,0,0,1,28.48,44.38Z" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 12.137842178344727,12.137842178344727"/>
+        </g>
+      </g>
+      <path d="M3434.88,1892.35h-42.72a31.56,31.56,0,0,0-31.56,31.57v106.17H3158.14V1924.71a32.36,32.36,0,0,0-32.37-32.36h-41.12a32.36,32.36,0,0,0-32.37,32.36V2094a32.37,32.37,0,0,0,32.37,32.37h350.23a31.57,31.57,0,0,0,31.57-31.57V1923.92A31.56,31.56,0,0,0,3434.88,1892.35Z" style="fill: #61c5d7;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 12"/>
+    </g>
+    <g id="南部待建">
+      <path d="M2841.77,2123H2489.32a30.48,30.48,0,0,1-30.48-30.48V1874.35a30.48,30.48,0,0,1,30.48-30.48h352.45a30.48,30.48,0,0,1,30.48,30.48v218.14A30.48,30.48,0,0,1,2841.77,2123Z" style="fill: #f3ecc2;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 12"/>
+      <path d="M1766.72,2084.83H1468.44a56,56,0,0,1-56-56V1897a56,56,0,0,1,56-56h298.28a56,56,0,0,1,56,56v131.81A56,56,0,0,1,1766.72,2084.83Z" style="fill: #a8596d;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 12"/>
+      <path d="M1744.39,1459.56h-246a27.47,27.47,0,0,1-27.46-27.46V1065.89a27.46,27.46,0,0,1,27.46-27.46h517.36a27.45,27.45,0,0,1,27.45,27.46v94.87C2043.18,1325.78,1909.41,1459.56,1744.39,1459.56Z" style="fill: #f66165;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 12"/>
+    </g>
+    <g id="西部待建">
+      <path d="M771.2,2179.05H140.28A62.32,62.32,0,0,1,78,2116.73v-923.3a62.32,62.32,0,0,1,62.31-62.32H771.2a62.32,62.32,0,0,1,62.32,62.32v923.3A62.32,62.32,0,0,1,771.2,2179.05Z" style="fill: #f3ecc2;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 12"/>
+      <polygon points="64.78 41.87 64.78 124.58 64.78 713.59 241.8 713.59 241.8 864.82 435.95 864.82 435.95 713.59 435.95 124.58 843.47 124.58 843.47 41.87 64.78 41.87" style="fill: #f3ecc2;stroke: #000;stroke-miterlimit: 10;stroke-width: 4px;stroke-dasharray: 12"/>
+    </g>
+    <g id="大屏幕">
+      <path d="M1001.2,1094.56H957.45a7.7,7.7,0,0,1-7.7-7.7V997.52a7.7,7.7,0,0,1,7.7-7.7h43.75a7.69,7.69,0,0,1,7.69,7.7v89.34A7.69,7.69,0,0,1,1001.2,1094.56Z" style="fill: #f6b66c;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="快递站">
+      <path d="M203.71,785.13H76.86a25,25,0,0,1-25-25V749.57a25,25,0,0,1,25-25H203.71a25,25,0,0,1,25,25v10.55A25,25,0,0,1,203.71,785.13Z" style="fill: #f6b66c;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="基建处">
+      <path d="M203.5,861.44H76.64a25,25,0,0,1-25-25V825.89a25,25,0,0,1,25-25H203.5a25,25,0,0,1,25,25v10.54A25,25,0,0,1,203.5,861.44Z" style="fill: #61c5d7;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+    </g>
+    <g id="南边公寓-2" data-name="南边公寓">
+      <g id="信息楼S1">
+        <path d="M1018,1121.7H987a24.7,24.7,0,0,0-24.7,24.7v104.76a24.7,24.7,0,0,0,24.7,24.7h6.28a24.7,24.7,0,0,0,24.7-24.7V1178.1h58.77v-56.4Z" style="fill: #61c5d7;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <path d="M965.83,1220h0a5.12,5.12,0,0,1-5.12-5.12v-23.71a5.12,5.12,0,0,1,5.12-5.12h0a5.12,5.12,0,0,1,5.12,5.12v23.71A5.12,5.12,0,0,1,965.83,1220Z"/>
+        <path d="M1046.88,1130.06h-23.74a5.06,5.06,0,0,1-5.06-5h0a5.06,5.06,0,0,1,5.06-5.06h23.74a5.06,5.06,0,0,1,5.06,5.06h0A5.06,5.06,0,0,1,1046.88,1130.06Z"/>
+      </g>
+      <g id="S2区">
+        <path d="M1270.78,1121.7h-194v56.4h164.3v75H1297V1147.89A26.2,26.2,0,0,0,1270.78,1121.7Z" style="fill: #007877"/>
+        <path d="M1230.94,1181.09h-23.79a5.16,5.16,0,0,1-5.16-5.16h0a5.16,5.16,0,0,1,5.16-5.16h23.79a5.16,5.16,0,0,1,5.16,5.16h0A5.16,5.16,0,0,1,1230.94,1181.09Z"/>
+      </g>
+      <g id="S3区">
+        <path d="M1297,1253.06h-55.91v81.23H1089a25.24,25.24,0,0,0-25.25,25.25v5a24.9,24.9,0,0,0,24.9,24.91h152.43v115H1297Z" style="fill: #8abeb2;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <path d="M1230.93,1392.26H1207a5.1,5.1,0,0,1-5.09-5.1h0a5.09,5.09,0,0,1,5.09-5.1h23.9a5.09,5.09,0,0,1,5.09,5.1h0A5.1,5.1,0,0,1,1230.93,1392.26Z"/>
+      </g>
+      <g id="S4区">
+        <path d="M1241.06,1504.48v4H1095.29a25.25,25.25,0,0,0-25.25,25.25v5a24.9,24.9,0,0,0,24.9,24.9h146.12v139.51H1297V1504.48Z" style="fill: #007877;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <path d="M1294,1555h0a4.85,4.85,0,0,1-4.85-4.85v-24a4.85,4.85,0,0,1,4.85-4.85h0a4.85,4.85,0,0,1,4.85,4.85v24A4.85,4.85,0,0,1,1294,1555Z"/>
+      </g>
+      <g id="S5区">
+        <path d="M1241.06,1704.41H1017.91v-64.35a26.4,26.4,0,0,0-26.41-26.41h-3.9a26.4,26.4,0,0,0-26.41,26.41v93.13a26.4,26.4,0,0,0,26.41,26.41h253.46v67.47a18.09,18.09,0,0,0,18.09,18.09h18.06A19.76,19.76,0,0,0,1297,1825.4V1703.23h-55.91Z" style="fill: #8abeb2;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <path d="M1280.87,1851.87h-23.79a5,5,0,0,1-4.95-4.95h0a5,5,0,0,1,4.95-5h23.79a5,5,0,0,1,5,5h0A5,5,0,0,1,1280.87,1851.87Z"/>
+        <path d="M1297,1706.92h0a5,5,0,0,1-5,5h-23.9a5,5,0,0,1-5-5h0a5,5,0,0,1,5-5H1292A5,5,0,0,1,1297,1706.92Z"/>
+      </g>
+      <g id="S6区">
+        <path d="M1269.26,2039.26h-3.56A25.69,25.69,0,0,0,1240,2065v29h-186.6V1977h56.64a25.82,25.82,0,0,0,25.83-25.83v-4.28a25.82,25.82,0,0,0-25.83-25.83h-56.64v-54.49a26,26,0,0,0-26-26h-4.22a26,26,0,0,0-26,26V2124a26,26,0,0,0,26,26h249.28a23.83,23.83,0,0,0,23.83-23.84v-59.88A27,27,0,0,0,1269.26,2039.26Z" style="fill: #007877;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      </g>
+    </g>
+    <g id="北边公寓-2" data-name="北边公寓">
+      <g id="C区">
+        <path d="M1050.62,531.37h172.12a33.4,33.4,0,0,1,9.44,1.37V466.11H1042.8v66.2l.2,0A33,33,0,0,1,1050.62,531.37Z" style="fill: #8abeb2;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+      </g>
+      <g id="B区">
+        <path d="M1017.49,676.81V564.51a33.14,33.14,0,0,1,25.31-32.2v-66.2H998.58a29.46,29.46,0,0,0-29.47,29.47v191h49.83A33.43,33.43,0,0,1,1017.49,676.81Z" style="fill: #007877;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <path id="B区门" d="M1038,518.94h0a5,5,0,0,1-5-5V490a5,5,0,0,1,5-5h0a5,5,0,0,1,5,5v24A5,5,0,0,1,1038,518.94Z"/>
+      </g>
+      <g id="A区">
+        <path d="M1222.74,710H1050.62a33.16,33.16,0,0,1-31.68-23.39H969.11v48.79a29.47,29.47,0,0,0,29.47,29.47H1225v-55C1224.24,709.92,1223.5,710,1222.74,710Z" style="fill: #8abeb2;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <path id="生活服务区_地下一层_" data-name="生活服务区 （地下一层）" d="M1164.43,765.61h-90.32a14.28,14.28,0,0,1-14.28-14.27V725.11a14.28,14.28,0,0,1,14.28-14.27h90.32a14.27,14.27,0,0,1,14.28,14.27v26.23A14.27,14.27,0,0,1,1164.43,765.61Z" style="fill: #f6b66c"/>
+        <path id="A区门" d="M1009.85,696.94H986.12a5.08,5.08,0,0,1-5.08-5.08h0a5.09,5.09,0,0,1,5.08-5.08h23.73a5.08,5.08,0,0,1,5.08,5.08h0A5.07,5.07,0,0,1,1009.85,696.94Z"/>
+      </g>
+      <g id="D1区">
+        <path d="M1273.07,466.11h-40.89v66.63a33.16,33.16,0,0,1,23.7,31.77v112.3A33.14,33.14,0,0,1,1225,709.87v55h48.08a29.47,29.47,0,0,0,29.47-29.47V495.58A29.46,29.46,0,0,0,1273.07,466.11Z" style="fill: #007877;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <path id="D1区北门" d="M1255.36,474h-24.52a4.84,4.84,0,0,1-4.84-4.84v-.4a4.84,4.84,0,0,1,4.84-4.84h24.52a4.84,4.84,0,0,1,4.84,4.84v.4A4.84,4.84,0,0,1,1255.36,474Z"/>
+        <path id="D1区南门" d="M1230,756h0a5.09,5.09,0,0,1-5.09-5.09V727a5.09,5.09,0,0,1,5.09-5.09h0a5.09,5.09,0,0,1,5.09,5.09V750.9A5.09,5.09,0,0,1,1230,756Z"/>
+      </g>
+      <g id="E区">
+        <path d="M1195.88,139H995.63a27,27,0,0,0-27,27v88.95a27,27,0,0,0,27,27H1012a27,27,0,0,0,27-27v-56.1h156.87v-.05h34.43V139Z" style="fill: #007877;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <path id="E区门" d="M972.33,203.92h0a5.39,5.39,0,0,1-5.39-5.39V175.3a5.39,5.39,0,0,1,5.39-5.39h0a5.39,5.39,0,0,1,5.39,5.39v23.23A5.39,5.39,0,0,1,972.33,203.92Z"/>
+      </g>
+      <g id="D2区">
+        <path d="M1276.81,313.38h-19.09A27.41,27.41,0,0,1,1230.31,286V138.13a27.41,27.41,0,0,1,27.41-27.41h19.09a27.41,27.41,0,0,1,27.4,27.41V286A27.41,27.41,0,0,1,1276.81,313.38Z" style="fill: #8abeb2;stroke: #a0a0a0;stroke-miterlimit: 10;stroke-width: 4px"/>
+        <path id="D2区门" d="M1235,171h0a5,5,0,0,1-5-5.05V142.05a5,5,0,0,1,5-5.05h0a5,5,0,0,1,5,5.05V166A5,5,0,0,1,1235,171Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="路径节点">
+    <circle id="国脉西路_E区门_运动场北门" data-name="国脉西路+E区门+运动场北门" cx="896.5" cy="222.54" r="10.95" style="fill: none"/>
+    <circle id="国脉西路_东西路2" data-name="国脉西路+东西路2" cx="896.5" cy="441.57" r="10.95" style="fill: none"/>
+    <circle id="国脉西路_鸿雁路" data-name="国脉西路+鸿雁路" cx="898.38" cy="930.79" r="10.95" style="fill: none"/>
+    <circle id="A区门-2" data-name="A区门" cx="990.89" cy="670.41" r="10.95" style="fill: none"/>
+    <circle id="国脉西路_A区门_运动场南门" data-name="国脉西路+A区门+运动场南门" cx="896.5" cy="672.23" r="10.95" style="fill: none"/>
+    <circle id="西门-2" data-name="西门" cx="35.02" cy="932.9" r="10.95" style="fill: none"/>
+    <circle id="快递站-2" data-name="快递站" cx="217.55" cy="756.66" r="10.95" style="fill: none"/>
+    <circle id="D2区门-2" data-name="D2区门" cx="1207.88" cy="169.91" r="10.95" style="fill: none"/>
+    <circle id="D2区拐角" cx="1218.83" cy="327.06" r="10.95" style="fill: none"/>
+    <circle id="南北路2_D2区" data-name="南北路2+D2区" cx="1363.16" cy="316.11" r="10.95" style="fill: none"/>
+    <circle id="南北路2_东西路2" data-name="南北路2+东西路2" cx="1363.16" cy="443.48" r="10.95" style="fill: none"/>
+    <circle id="国脉西路_东西路1" data-name="国脉西路+东西路1" cx="896.5" cy="99.6" r="10.95" style="fill: none"/>
+    <circle id="东西路1_D2区" data-name="东西路1+D2区" cx="1211.45" cy="99.6" r="10.95" style="fill: none"/>
+    <circle id="南北路2_东西路1" data-name="南北路2+东西路1" cx="1363.16" cy="95.07" r="10.95" style="fill: none"/>
+    <circle id="东西路2_B区门" data-name="东西路2+B区门" cx="1059.83" cy="443.48" r="10.95" style="fill: none"/>
+    <circle id="东西路2_C区门" data-name="东西路2+C区门" cx="1243.1" cy="441.57" r="10.95" style="fill: none"/>
+    <circle id="D1区南门-2" data-name="D1区南门" cx="1211.45" cy="739.71" r="10.95" style="fill: none"/>
+    <circle id="鸿雁路_D1区南门" data-name="鸿雁路+D1区南门" cx="1213.09" cy="932.9" r="10.95" style="fill: none"/>
+    <circle id="南北路2_鸿雁路" data-name="南北路2+鸿雁路" cx="1363.16" cy="930.79" r="10.95" style="fill: none"/>
+    <circle id="医务室-2" data-name="医务室" cx="1912.2" cy="106.02" r="10.95" style="fill: none"/>
+    <circle id="南北路3_东西路1" data-name="南北路3+东西路1" cx="1743.71" cy="116.97" r="10.95" style="fill: none"/>
+    <circle id="国脉路_东西路1" data-name="国脉路+东西路1" cx="2157.56" cy="118.02" r="10.95" style="fill: none"/>
+    <circle id="南北路3_东西路2" data-name="南北路3+东西路2" cx="1745.49" cy="443.48" r="10.95" style="fill: none"/>
+    <circle id="国脉路_东西路2_图书馆小路" data-name="国脉路+东西路2+图书馆小路" cx="2157.56" cy="443.48" r="10.95" style="fill: none"/>
+    <circle id="教工食堂-2" data-name="教工食堂" cx="1554.67" cy="411.38" r="10.95" style="fill: none"/>
+    <circle id="学生食堂-2" data-name="学生食堂" cx="1554.67" cy="463.93" r="10.95" style="fill: none"/>
+    <circle id="综合办公楼-2" data-name="综合办公楼" cx="1923.16" cy="404.51" r="10.95" style="fill: none"/>
+    <circle id="学生活动中心-2" data-name="学生活动中心" cx="1933.29" cy="458.17" r="10.95" style="fill: none"/>
+    <circle id="超市_运营商_邮局" data-name="超市+运营商+邮局" cx="1795.43" cy="651.65" r="10.95" style="fill: none"/>
+    <circle id="鸿雁路_南北路3" data-name="鸿雁路+南北路3" cx="1743.71" cy="925.1" r="10.95" style="fill: none"/>
+    <circle id="国脉路_鸿雁路" data-name="国脉路+鸿雁路" cx="2157.56" cy="930.79" r="10.95" style="fill: none"/>
+    <circle id="图书馆西门" cx="2217.04" cy="498.48" r="10.95" style="fill: none"/>
+    <circle id="图书馆南门" cx="2567.45" cy="833.13" r="10.95" style="fill: none"/>
+    <circle id="咖啡厅-2" data-name="咖啡厅" cx="2650.5" cy="764.97" r="10.95" style="fill: none"/>
+    <circle id="东配楼-2" data-name="东配楼" cx="2816.66" cy="362.61" r="10.95" style="fill: none"/>
+    <circle id="图书馆小路_东配楼" data-name="图书馆小路+东配楼" cx="2805.71" cy="443.48" r="10.95" style="fill: none"/>
+    <circle id="南北路5_图书馆小路" data-name="南北路5+图书馆小路" cx="2938.56" cy="443.48" r="10.95" style="fill: none"/>
+    <circle id="南北路5_东西路1" data-name="南北路5+东西路1" cx="2938.56" cy="118.02" r="10.95" style="fill: none"/>
+    <circle id="南北路5_鸿雁路" data-name="南北路5+鸿雁路" cx="2938.56" cy="932.9" r="10.95" style="fill: none"/>
+    <circle id="教室楼S1西门" cx="3053.49" cy="1090.17" r="10.95" style="fill: none"/>
+    <circle id="鸿雁路_教学综合实验楼-N北门" data-name="鸿雁路+教学综合实验楼-N北门" cx="2536.44" cy="943.85" r="10.95" style="fill: none"/>
+    <circle id="教学综合实验楼-N北门" cx="2556.5" cy="1007.8" r="10.95" style="fill: none"/>
+    <circle id="南北路5_教学综合实验楼-N东门_教室楼西门" data-name="南北路5+教学综合实验楼-N东门+教室楼西门" cx="2938.56" cy="1079.21" r="10.95" style="fill: none"/>
+    <circle id="综合教学实验楼-N东门" cx="2804.84" cy="1166.59" r="10.95" style="fill: none"/>
+    <circle id="教学综合实验楼-N西门" cx="2278.13" cy="1090.17" r="10.95" style="fill: none"/>
+    <circle id="南北路5_东西路4_实验楼S2S3西门" data-name="南北路5+东西路4+实验楼S2S3西门" cx="2938.56" cy="1525.46" r="10.95" style="fill: none"/>
+    <circle id="实验楼S2S3西门" cx="3070.9" cy="1522.69" r="10.95" style="fill: none"/>
+    <circle id="南北路5_东西路5" data-name="南北路5+东西路5" cx="2938.56" cy="1794.39" r="10.95" style="fill: none"/>
+    <circle id="国脉路_教学综合实验楼-N西门" data-name="国脉路+教学综合实验楼-N西门" cx="2157.56" cy="1090.17" r="10.95" style="fill: none"/>
+    <circle id="教学综合实验楼-S东门" cx="2815.8" cy="1373.32" r="10.95" style="fill: none"/>
+    <circle id="南北路5_教学综合实验楼-S东门" data-name="南北路5+教学综合实验楼-S东门" cx="2938.56" cy="1378.77" r="10.95" style="fill: none"/>
+    <circle id="教学综合实验楼-S西门" cx="2289.08" cy="1384.27" r="10.95" style="fill: none"/>
+    <circle id="国脉路_教学综合实验楼-S西门" data-name="国脉路+教学综合实验楼-S西门" cx="2155.42" cy="1384.27" r="10.95" style="fill: none"/>
+    <circle id="国脉路_东西路4" data-name="国脉路+东西路4" cx="2158.21" cy="1523.24" r="10.95" style="fill: none"/>
+    <circle id="国脉路_东西路5" data-name="国脉路+东西路5" cx="2155.42" cy="1794.39" r="10.95" style="fill: none"/>
+    <circle id="南门-2" data-name="南门" cx="2158.21" cy="2248.21" r="10.95" style="fill: none"/>
+    <circle id="南北路2_东西路4" data-name="南北路2+东西路4" cx="1363.16" cy="1525.46" r="10.95" style="fill: none"/>
+    <circle id="南北路2_东西路5" data-name="南北路2+东西路5" cx="1363.16" cy="1794.39" r="10.95" style="fill: none"/>
+    <circle id="信息楼S1北门_鸿雁路" data-name="信息楼S1北门+鸿雁路" cx="1022.45" cy="932.9" r="10.95" style="fill: none"/>
+    <circle id="信息楼S1北门" cx="1033.41" cy="1123.05" r="10.95" style="fill: none"/>
+    <circle id="S2区门" cx="1218.98" cy="1178.08" r="10.95" style="fill: none"/>
+    <circle id="南北路2_S2区门" data-name="南北路2+S2区门" cx="1363.16" cy="1181.09" r="10.95" style="fill: none"/>
+    <circle id="S3区门" cx="1213.98" cy="1390.81" r="10.95" style="fill: none"/>
+    <circle id="南北路2_S3区门" data-name="南北路2+S3区门" cx="1363.16" cy="1401.77" r="10.95" style="fill: none"/>
+    <circle id="S4区门" cx="1301.4" cy="1536.99" r="10.95" style="fill: none"/>
+    <circle id="S5区门" cx="1268.97" cy="1860.41" r="10.95" style="fill: none"/>
+    <circle id="S6区南门" cx="1263.77" cy="2041.62" r="10.95" style="fill: none"/>
+    <circle id="S6区西门" cx="1135.77" cy="1951.98" r="10.95" style="fill: none"/>
+    <circle id="S5区门_S6区门" data-name="S5区门+S6区门" cx="1236.02" cy="1914.79" r="10.95" style="fill: none"/>
+    <circle id="南北路2_S5区门_S6区门" data-name="南北路2+S5区门+S6区门" cx="1363.16" cy="1914.79" r="10.95" style="fill: none"/>
+    <circle id="小路1" cx="1130.77" cy="1186.02" r="10.95" style="fill: none"/>
+    <circle id="小路2" cx="1033.41" cy="1257.36" r="10.95" style="fill: none"/>
+    <circle id="小路3" cx="1035.01" cy="1467.53" r="10.95" style="fill: none"/>
+    <circle id="小路4" cx="1124.82" cy="1467.53" r="10.95" style="fill: none"/>
+    <circle id="小路5" cx="951.78" cy="1598.4" r="10.95" style="fill: none"/>
+    <circle id="小路6" cx="1129.08" cy="1603.85" r="10.95" style="fill: none"/>
+    <circle id="小路7" cx="949.75" cy="1807.76" r="10.95" style="fill: none"/>
+    <circle id="小路8" cx="1129.08" cy="1807.76" r="10.95" style="fill: none"/>
+    <circle id="国脉西路_小路9" data-name="国脉西路+小路9" cx="898.38" cy="1459.56" r="10.95" style="fill: none"/>
+    <circle id="小路9" cx="1035.01" cy="1467.53" r="10.95" style="fill: none"/>
+  </g>
+  <g id="文字">
+    <text id="text_学生公寓" transform="translate(1053.17 260.19)" style="font-size: 40px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">学生公寓</text>
+    <text id="text_D2_区" data-name="text_D2区" transform="translate(1241.94 191.63)" style="font-size: 31px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">D2<tspan x="6.33" y="55">区</tspan></text>
+    <text id="text_E_区" data-name="text_E  区" transform="translate(1063.48 179.22)" style="font-size: 31px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700"><tspan xml:space="preserve">E  区</tspan></text>
+    <text id="text_D1_区" data-name="text_D1 区" transform="translate(1256.97 594.92)" style="font-size: 31px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">D1<tspan x="6.33" y="67">区</tspan></text>
+    <text id="text_生活服务区_地下一层_" data-name="text_生活服务区 （地下一层）" transform="translate(1069.98 736.91)" style="font-size: 20px;font-family: MicrosoftYaHei, Microsoft YaHei">生活服务区<tspan x="-10" y="20">（地下一层）</tspan></text>
+    <text id="text_A_区" data-name="text_A  区" transform="translate(979.74 745.71)" style="font-size: 31px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700"><tspan xml:space="preserve">A  区</tspan></text>
+    <text id="text_B_区" data-name="text_B 区" transform="translate(981.17 564.83)" style="font-size: 31px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">B<tspan x="0" y="66">区</tspan></text>
+    <text id="text_C_区" data-name="text_C  区" transform="translate(1100.84 509.43)" style="font-size: 31px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700"><tspan xml:space="preserve">C  区</tspan></text>
+    <text id="text_学生公寓-2" data-name="text_学生公寓" transform="translate(996.88 1453.54)" style="font-size: 59px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">学生公寓</text>
+    <text id="text_S6_区" data-name="text_S6  区" transform="translate(1128.49 2134.22)" style="font-size: 31px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700"><tspan xml:space="preserve">S6  区</tspan></text>
+    <text id="text_S5_区" data-name="text_S5  区" transform="translate(1136.91 1745.21)" style="font-size: 31px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700"><tspan xml:space="preserve">S5  区</tspan></text>
+    <text id="text_S4_区" data-name="text_S4  区" transform="translate(1134.56 1548.88)" style="font-size: 33px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700"><tspan xml:space="preserve">S4  区</tspan></text>
+    <text id="text_S3_区" data-name="text_S3  区" transform="translate(1135.72 1373.32)" style="font-size: 31px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700"><tspan xml:space="preserve">S3  区</tspan></text>
+    <text id="text_S2_区" data-name="text_S2  区" transform="translate(1136.97 1164.08)" style="font-size: 31px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700"><tspan xml:space="preserve">S2  区</tspan></text>
+    <text id="text_信息楼_S1" data-name="text_信息楼 S1" transform="translate(968.02 1166.59)" style="font-size: 33px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">信息楼<tspan x="0" y="37" xml:space="preserve"> S1</tspan></text>
+    <text id="text_基建处" transform="translate(95.51 841.08)" style="font-size: 31px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">基建处</text>
+    <text id="text_快递站" transform="translate(95.33 764.97)" style="font-size: 31px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">快递站</text>
+    <text id="text_规划待建区域" transform="translate(163.81 319.38)" style="font-size: 80px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">规划<tspan x="0" y="96">待建</tspan><tspan x="0" y="192">区域</tspan></text>
+    <text id="text_规划待建区域-2" data-name="text_规划待建区域" transform="translate(229.59 1675.94)" style="font-size: 80px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">规划待建区域</text>
+    <text id="text_远期规划项目" transform="translate(2488.55 2003.23)" style="font-size: 59px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">远期规划项目</text>
+    <text id="text_南区食堂_在建_" data-name="text_南区食堂 (在建)" transform="translate(1496.76 1959.62)" style="font-size: 59px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">南区食堂<tspan x="36.01" y="82">(在建)</tspan></text>
+    <text id="text_公共教学楼_待建_" data-name="text_公共教学楼 (待建)" transform="translate(1592.13 1225.11)" style="font-size: 59px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">公共教学楼<tspan x="65.51" y="82">(待建)</tspan></text>
+    <text id="text_学院楼_在建_" data-name="text_学院楼 (在建)" transform="translate(3173.45 441.4)" style="font-size: 59px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">学院楼<tspan x="6.51" y="82">(在建)</tspan></text>
+    <text id="text_学院楼_在建_2" data-name="text_学院楼(在建)" transform="translate(3095.03 2105.89)" style="font-size: 59px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">学院楼(在建)</text>
+    <text id="text_东配楼" transform="translate(2739.84 353.98)" style="font-size: 36px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">东配楼</text>
+    <text id="text_图书馆" transform="translate(2382.09 663.02)" style="font-size: 70px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">图书馆</text>
+    <text id="text_医务室" transform="translate(1849.1 89.55)" style="font-size: 42px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">医务室</text>
+    <text id="text_综合_办公楼" data-name="text_综合 办公楼" transform="translate(1875.29 256.31)" style="font-size: 58px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">综合<tspan x="-29" y="67">办公楼</tspan></text>
+    <text id="text_学生_活动_中心" data-name="text_学生 活动 中心" transform="translate(1890.55 550.91)" style="font-size: 51px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">学生<tspan x="0" y="53">活动</tspan><tspan x="0" y="106">中心</tspan></text>
+    <text id="text_超_市" data-name="text_超 市" transform="translate(1807.98 573.54)" style="font-size: 29px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">超<tspan x="0" y="49">市</tspan></text>
+    <text id="text_运_营商" data-name="text_运 营商" transform="translate(1827.73 696.94)" style="font-size: 26px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">运<tspan x="-13" y="28">营商</tspan></text>
+    <text id="text_邮局_ATM" data-name="text_邮局 ATM" transform="translate(1897.75 697.8)" style="font-size: 26px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">邮局<tspan x="-4.29" y="28" style="letter-spacing: -0.07568359375em">A</tspan><tspan x="13.29" y="28">TM</tspan></text>
+    <text id="text_学生_食堂" data-name="text_学生食堂" transform="translate(1501.3 585.27)" style="font-size: 58px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">学生<tspan x="0" y="67">食堂</tspan></text>
+    <text id="text_教工_食堂" data-name="text_教工 食堂" transform="translate(1496.67 256.01)" style="font-size: 58px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700">教工<tspan x="0" y="67">食堂</tspan></text>
+    <text id="text_实验楼_S2_S3" data-name="text_实验楼 S2 S3" transform="translate(3179.52 1556.36)" style="font-size: 52px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">实验楼<tspan x="6.91" y="82">S2 S3</tspan></text>
+    <text id="text_教室楼S1" transform="translate(3145.82 1104.29)" style="font-size: 52px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">教室楼S1</text>
+    <text id="text_教学综合实验楼-S" transform="translate(2348.66 1392.26)" style="font-size: 48px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">教学综合实验楼-S</text>
+    <text id="text_教学综合实验楼-N" transform="translate(2348.09 1090.17)" style="font-size: 48px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">教学综合实验楼-N</text>
+    <text id="text_报告厅" transform="translate(2495.95 1251.26)" style="font-size: 48px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">报告厅</text>
+    <text id="text_运动场" transform="translate(556.37 415.12)" style="font-size: 72px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">运动场</text>
+    <text id="text_西_门" data-name="text_西 门" transform="translate(45.46 925.1)" style="font-size: 45px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700;letter-spacing: 0.1em">西<tspan x="0" y="50">门</tspan></text>
+    <text id="text_鸿_雁_路" data-name="text_鸿                                雁                                路" transform="translate(1253.85 951.99)" style="font-size: 56px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700"><tspan xml:space="preserve">鸿                                雁                                路</tspan></text>
+    <text id="text_南门" transform="translate(2110.31 2208.89)" style="font-size: 45px;font-family: MicrosoftYaHei-Bold, Microsoft YaHei;font-weight: 700;letter-spacing: 0.1em">南门</text>
+    <text id="text_咖_啡_厅" data-name="text_咖 啡 厅" transform="translate(2637.25 684.29)" style="font-size: 29px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">咖<tspan x="0" y="34.8">啡</tspan><tspan x="0" y="69.6">厅</tspan></text>
+    <text id="text_国_脉_西_路" data-name="text_国     脉     西     路" transform="translate(872.74 499.43)" style="font-size: 52px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">国<tspan x="0" y="312">脉</tspan><tspan x="0" y="624">西</tspan><tspan x="0" y="936">路</tspan></text>
+    <text id="text_大_屏_幕" data-name="text_大 屏 幕" transform="translate(965.19 1022.04)" style="font-size: 26px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">大<tspan x="0" y="31.2">屏</tspan><tspan x="0" y="62.4">幕</tspan></text>
+    <text id="text_国_脉_路" data-name="text_国     脉     路" transform="translate(2134.81 707.47)" style="font-size: 52px;font-family: MicrosoftYaHeiUI-Bold, Microsoft YaHei UI;font-weight: 700">国<tspan x="0" y="312">脉</tspan><tspan x="0" y="624">路</tspan></text>
+  </g>
+</svg>
